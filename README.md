@@ -270,4 +270,8 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 ## Author - Ishan Thavi
 
+Linkedin- www.linkedin.com/in/ishan-t-a39545139
+
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+Thank you, and I look forward to connecting with you!
